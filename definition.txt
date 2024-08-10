@@ -1,0 +1,15 @@
+NOTE: THIS APP WILL NOT UPGRADE NOR MODIFY ANY OF YOUR RAM RELATED THINGS (RAM cards, ...) so don't expect a better RAM card (if your RAM card is 16GB when run the app it will still stays the same)
+
+The app only change the Virtual RAM settings so your computer if with low RAM can at least improve their experience and prevent crashes at no cost.
+
+Definition of Virtual RAM:
+
+Virtual RAM (or virtual memory) is a memory management capability that uses a portion of your hard drive or SSD as if it were additional RAM. This allows your computer to handle more tasks simultaneously than the physical RAM alone would allow. Here are some key points:
+
+1. Paging: When your system runs out of physical RAM, it moves inactive pages of memory to a reserved space on the hard drive called the swap file or page file.
+
+2. Increased Capacity: Virtual memory enables your system to run larger applications and multitask more efficiently by providing a larger address space.
+
+3. Performance: While it helps prevent system crashes due to low memory, using virtual memory is slower than using physical RAM because accessing data on a hard drive or SSD is much slower than accessing RAM.
+
+Overall, virtual RAM acts as an overflow for your physical RAM, enhancing system performance in multitasking scenarios but at a potential cost to speed.
