@@ -1,14 +1,11 @@
 My first project perhaps.
+Download executable here: http://mrlam.us.to/projects/get-more-ram
 
 **GET MORE RAM - ACUALLY DOWNLOADING MORE RAM**
-Boost your device's performance effortlessly with Get More RAM! This powerful app allows you to customize
-your virtual memory (RAM) settings to maximize your device's efficiency. Whether you're running out of
-memory during intensive tasks or want to enhance your overall system speed, Get More RAM provides an
-easy-to-use interface for adjusting your virtual RAM settings. Experience smoother multitasking, faster app
-loading, and improved system stability with just a few taps. Perfect for both casual users and tech enthusiasts
-looking to get the most out of their device.
+Boost your device's performance effortlessly with Get More RAM! This powerful app allows you to customizeyour virtual memory (RAM) settings to maximize your device's efficiency. Whether you're running out of memory during intensive tasks or want to enhance your overall system speed, Get More RAM provides an easy-to-use interface for adjusting your virtual RAM settings. Experience smoother multitasking, faster app loading, and improved system stability with just a few taps. Perfect for both casual users and tech enthusiasts looking to get the most out of their device.
 
 **Screenshot**
+
 ![button](https://github.com/user-attachments/assets/58b0cf42-6103-430c-a18e-cb2a734a9062)
 
 **How this works???**
